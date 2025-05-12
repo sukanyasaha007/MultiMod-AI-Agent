@@ -128,11 +128,3 @@ Sukanya Saha
 🌐 LinkedIn
 💻 GitHub
 
-⚡ Powered by Open Source, LangChain, and the magic of multimodal reasoning.
-
-```yaml
-
-This will **make you stand out to recruiters, collaborators, and AI enthusiasts**. Let me know when you're ready to scaffold the actual code – I’ll start with `main.py` + `agent.py` and go module by module 🚀
-
-Want me to begin coding the backend now?
-```
