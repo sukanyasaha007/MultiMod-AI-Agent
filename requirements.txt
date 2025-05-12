@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pillow
+transformers
+torch
+sentence-transformers
+pymupdf
+chromadb
+langchain
+openai
+python-dotenv
+jupyter
+opencv-python
+matplotlib
+seaborn

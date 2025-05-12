@@ -74,7 +74,11 @@ Use embeddings for semantic search on fire scenes
    Document → Extracted, chunked, and embedded
 3. Both sets go into a vector DB
 4. RAG-based agent retrieves top chunks and calls LLM to generate a response
-
+5. Build and Run - 
+```yaml
+docker build -t multimod-ai-agent .
+docker run -p 8000:8000 multimod-ai-agent
+```
 ---
 
 ## 📌 Roadmap
