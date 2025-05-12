@@ -40,6 +40,7 @@ Uses the **Wildfire Detection Image Data** from [Kaggle](https://www.kaggle.com/
 ---
 
 ## 📁 Project Structure
+```bash
 MultiMod-AI-Agent/
 ├── app/
 │ ├── main.py # Streamlit or FastAPI app
@@ -54,6 +55,7 @@ MultiMod-AI-Agent/
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
+```
 ---
 
 ## ✅ Example Use Cases
